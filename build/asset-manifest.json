@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4812eee2.chunk.css",
+    "main.js": "/static/js/main.4cd472aa.chunk.js",
+    "main.js.map": "/static/js/main.4cd472aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e185fad6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e185fad6.js.map",
+    "static/js/2.3061dd1c.chunk.js": "/static/js/2.3061dd1c.chunk.js",
+    "static/js/2.3061dd1c.chunk.js.map": "/static/js/2.3061dd1c.chunk.js.map",
+    "static/js/3.916e6ee6.chunk.js": "/static/js/3.916e6ee6.chunk.js",
+    "static/js/3.916e6ee6.chunk.js.map": "/static/js/3.916e6ee6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4812eee2.chunk.css.map": "/static/css/main.4812eee2.chunk.css.map",
+    "static/js/2.3061dd1c.chunk.js.LICENSE.txt": "/static/js/2.3061dd1c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/lato-v16-latin-regular.f71f2288.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e185fad6.js",
+    "static/js/2.3061dd1c.chunk.js",
+    "static/css/main.4812eee2.chunk.css",
+    "static/js/main.4cd472aa.chunk.js"
+  ]
+}
