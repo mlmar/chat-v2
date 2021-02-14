@@ -18,12 +18,11 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "nodemon": "nodemon index.js",
-    "start": "node index.js",
+    "nodemon": "nodemon server.js",
+    "start": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "npm install && npm run build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
